@@ -6,9 +6,9 @@
 > 群友都是志同道合的人，并不求试题类型，无论是大厂面试题还是自己想弄明白的试题都可以～
 
 ## 沟通方式
-每日一题，自主发布，PR即可，格式 -> `day-questions_YYYY-MM-DD.md`
+每日一题，自主发布，PR即可，格式 -> `day-questions_YYYY-mm-DD.md`
 
-试题出好的同时提一个issue，格式 -> `day-answers_YYYY-MM-DD.md`，所有回答讨论者都在issue下讨论。
+试题出好的同时提一个issue，格式 -> `day-answers_YYYY-mm-DD`，所有回答讨论者都在issue下讨论。
 
 ## 回答方式
 对应试题的issue下面进行回复讨论，作者可以优先给出自己的答案，或者选择一个自己最喜欢的答案～
